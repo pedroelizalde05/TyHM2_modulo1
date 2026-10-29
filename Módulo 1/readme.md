@@ -3,7 +3,12 @@
 ## Selección del Tema de Proyecto Final de Carrera
 **Carrera:** Ingeniería Industrial  
 **Cátedra:** Técnicas y Herramientas Modernas II  
-**Eje Temático:** Optimización de Procesos Industriales con Inteligencia Artificial para la Eficiencia Energética (Marco ISO 50001)
+**Eje Temático:** Optimización de Procesos Industriales con Inteligencia Artificial para la Eficiencia Energética (Marco ISO 50001)  
+**Integrantes:**
+* Pedro Elizalde
+* Matteo Pratelesi
+* Francisco Allamand
+* Francisco Peiro
 
 ---
 
